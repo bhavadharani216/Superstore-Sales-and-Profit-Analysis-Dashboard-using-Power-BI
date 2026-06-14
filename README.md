@@ -43,19 +43,17 @@ The dataset contains information related to:
 
 ## 📷 Dashboard Preview
 
-> Add your dashboard screenshot here.
 
-Example:
+<img width="1305" height="730" alt="image" src="https://github.com/user-attachments/assets/c8ce59dc-7348-4c64-8872-3320c1dc8e6e" />
 
-```
-images/dashboard.png
-```
 
- 
 
-```markdown
-![Dashboard Preview](images/dashboard.png)
-```
+<img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/a849465d-0cb8-4536-a693-5b62acbe4b6a" />
+
+
+
+<img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/d7fa7dae-a8a7-4b15-9bcc-276548e596c6" />
+
 
 ## 📁 Project Structure
 
